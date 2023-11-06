@@ -1,0 +1,287 @@
+@import url("https://use.typekit.net/cyf7yfb.css");
+
+
+*{margin:0}
+
+.wrap{width: 100%;}
+   .box1{ height: 1080px;
+           background-image:url(IMG/bts.jpg);
+            background-position-x: center; 
+            background-repeat: no-repeat; 
+            background-color: #B4A499;}
+   .sbox1{  width: 1920px; 
+            height: 1080px ;
+            position: relative; 
+            margin: 0 auto;}
+   .sbox1-3{width: 488px; 
+            height: 195px ;
+            position: absolute; 
+            margin: 211px 0px 664px 612px;}
+   .sbox1-1{ width: 1920px; 
+             height: 86px ;
+             background-color:#867A6F; 
+             position: absolute; 
+             margin: 0 auto;}
+    .sbox1-2{width: 1100px;
+             height: 1080px;
+             margin: 0px 410px 0px 410px;
+             position: absolute; }
+    .sbox1-4{width: 431px; 
+        height: 195px ;
+        position: absolute; 
+        margin: 443px 0px 442px 669px;}
+    .sbox1-5{width: 635px; 
+            height: 48px ;
+            position: absolute; 
+            margin: 863px 0px 169px 465px;}
+    
+    .box2{ height: 1080px;
+            background-image:url(IMG/BTS_Logo_01.png); 
+            background-position-x: center; 
+            background-repeat: no-repeat; 
+            background-color: #B4A499;}  
+    .sbox2{width: 988px;
+            height: 722px;
+            margin: 298px 56px 82px 56px;
+            position: absolute;
+            font-family: "noto-sans", sans-serif;
+            font-weight: Medium;
+            font-style: Noto Sans;
+            color: #ffffff;
+            font-size: 27px;
+            letter-spacing: 0em;
+            line-height: 1.8888888888888888;}
+    .sbox2-1{margin: 0px 734px 807px 80px;
+             height: 273px ;
+             width: 286px;
+             position: absolute;
+             font-style: normal;
+             font-family: "noto-sans", sans-serif;
+             font-size: 200px;
+             font-weight: Bold;
+             letter-spacing: 0em;
+             color: #ffffff;
+            line-height: 1;
+    
+          
+      }
+
+    .box3{height: 1011px; 
+         background-image: url(IMG/bts_02.png);
+         background-position-x: center; 
+         background-repeat: no-repeat; 
+         background-color: #B4A499;}
+    .sbox3-1{width: 186px;
+            height: 394px;
+            margin: 82px 130px 535px 1604px;
+            position: absolute; }
+    .sbox3-2{width: 704px;
+             height: 265px;
+            margin: 500px 198px 246px 198px;
+             position: absolute;
+             font-style: normal;
+             font-family: "noto-sans", sans-serif;
+             font-size: 55px;
+             font-weight: 600;
+             letter-spacing: 0em;
+             color: #ffffff;
+             line-height: 2.727272727272727;}
+    .sbox3-3{width: 940px;
+        height: 6px;
+        margin: 946px 80px 59px 80px;
+        background-color: white;
+        position: absolute;}
+    .sbox3{width: 1100px;
+            height: 1011px;
+            margin: 0px 410px 0px 410px;
+            position: absolute; }
+     .sbox3-4{width: 1920px; 
+              height: 1011px ;
+              position: relative; 
+              margin: 0 auto;}
+       .sbox3-5{margin: 0px 734px 732px 80px;
+            width: 286px;
+            height: 273px ;
+            position: absolute;
+            font-family: "noto-sans", sans-serif;
+            font-style: normal;
+            font-weight: Bold;
+            font-size: 200px;
+            color: #ffffff;
+            letter-spacing: 0em;
+            line-height: 1;}
+ 
+    .box4{height: 1080px;
+           background-image: url(IMG/bts_02.png); 
+            background-position-x: center; 
+            background-repeat: no-repeat; 
+            background-color:#B4A499;}
+    .sbox4{width: 703px;
+            height: 468px;
+            position: absolute;
+            margin: 39px 198px 578px 199px;}
+    .sbox4-2{width: 988px;
+        height: 445px;
+        margin: 560px 56px 75px 56px;
+       
+        position: absolute;
+        font-family: "noto-sans", sans-serif;
+        font-weight: Medium;
+        font-style: normal;
+        color: #ffffff;
+        font-size: 27px;
+        letter-spacing: 0em;
+         line-height: 1.8888888888888888;}
+
+
+    .box5{height: 1080px;
+        background-image: url(IMG/bts_04.png); 
+         background-position-x: center; 
+         background-repeat: no-repeat; 
+         background-color: #B4A499;
+        ;}
+    .sbox5
+         {width: 730px;
+         height: 463px;
+         
+         position: absolute;
+         margin: 616px 185px 0px 185px;}
+    .sbox5-1{width: 704px;
+            height: 265px;
+            margin: 330px 198px 485px 198px;
+            
+            position: absolute;
+            font-family: "noto-sans", sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 55px;
+            color: #ffffff;
+            letter-spacing: 0em;
+            line-height: 2.727272727272727;}
+     .sbox5-2{width: 186px;
+                height: 394px;
+                margin: 74px 1604px 612px 130px;
+                
+                position: absolute; }
+     .sbox5-3{margin: 0px 734px 807px 80px;
+                    width: 286px;
+                    height: 273px ;
+                    position: absolute;
+                    font-family: "noto-sans", sans-serif;
+                    font-style: normal;
+                    font-weight: Bold;
+                    font-size: 200px;
+                    color: #ffffff;
+                    letter-spacing: 0em;
+                    line-height: 1;}
+
+     .box6{height: 1080px;
+            background-image: url(IMG/bts_04.png); 
+            background-position-x: center; 
+            background-repeat: no-repeat; 
+            background-color: #B4A499;}
+    .sbox6{width: 988px;
+            height: 914px;
+            margin: 134px 56px 32px 56px;
+            position: absolute;
+            
+            font-family: "noto-sans", sans-serif;
+            font-style: normal;
+            font-weight: Medium;
+            font-size: 27px;
+            color: #ffffff;
+            letter-spacing: 0em;
+            line-height: 1.8888888888888888;
+        }
+    .sbox6-1{width: 940px;
+                height: 6px;
+                margin: 79px 80px 995px 80px;
+                background-color: white;
+                position: absolute;}
+
+    /* .box7{
+        height: 1080px;
+        margin: 0 auto;
+        background-color:#B4A499;
+        background-repeat: no-repeat;}
+    .sbox7{  width: 1920px; 
+        height: 1080px ;
+        position: relative; 
+        margin: 0 auto;}
+    .sbox7-1{width: 1080px;
+        height: 1080px;
+        margin: 0px 420px 0px 420px;
+        position: absolute;}
+        .sbox7-1 video{padding-top: 151px;}
+     */
+               
+
+    .box8{height: 1080px;
+        background-image:url(IMG/bts_06.png);
+         background-position-x: center; 
+         background-repeat: no-repeat; 
+         background-color: #B4A499;}
+    .sbox8{width: 988px;
+        height: 562px;
+        margin: 429px 56px 89px 56px;
+        position: absolute;
+        font-family: "noto-sans", sans-serif;
+        font-style: normal;
+        font-weight: Medium;
+        font-size: 27px;
+        color: #ffffff;
+        letter-spacing: 0em;
+        line-height: 1.8888888888888888;} 
+        .sbox8-1{margin: 0px 734px 807px 80px;
+            width: 286px;
+            height: 273px ;
+            position: absolute;
+            font-family: "noto-sans", sans-serif;
+            font-style: normal;
+            font-weight: Bold;
+            font-size: 200px;
+            color: #ffffff;
+            letter-spacing: 0em;
+            line-height: 1;}
+
+.box9{height: 859px;
+    background-color: #B4A499;} 
+.sbox9{ width: 1920px; 
+    height: 859px ;
+    position: relative; 
+    margin: 0 auto;}  
+.sbox9-1{height: 457px;
+        width: 704px;
+        margin: 201px 608px 201px 608px;
+        position: absolute;}
+.sbox9-2{width: 664px;
+         height: 172px;
+        position: absolute;
+         margin: 57px 20px 228px 20px;
+        text-align: center;
+        font-family: "noto-sans", sans-serif;
+        font-style: normal;
+        font-weight: Medium;
+        font-size: 23px;
+        color: #ffffff;
+        letter-spacing: 0em;
+        line-height: 3.0434782608695654;}
+.sbox9-3{width: 462px;
+    height: 32px;
+   position: absolute;
+    margin: 354px 121px 71px 121px;
+   text-align: center;
+   font-family: "noto-sans", sans-serif;
+   font-style: normal;
+   font-weight: Medium;
+   font-size: 23px;
+   color: #ffffff;
+   letter-spacing: 0em;
+   line-height: 3.0434782608695654;}
+.sbox9-4{width: 100px;
+         height: 214px;
+        position: absolute;
+         margin: 323px 140px 323px 1680px;}
+.bold{font-size: 27px;
+    font-weight: bold;
+    color: #ffffff;}
